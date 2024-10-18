@@ -1,16 +1,32 @@
-## Hi there 👋
+---
 
-<!--
-**zackrspv/zackrspv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackrspv&layout=compact&theme=dark)](https://github.com/zackrspv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=zackrspv&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+
+</div>
+
+---
+
+### 🌟 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zackrspv&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/zackrspv)
+
+</div>
+
+---
+
+### 🚀 Latest Activity
+
+<div align="center">
+  
+[![Zackrspv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zackrspv&theme=react-dark)](https://github.com/zackrspv)
+</div>
+
+---
