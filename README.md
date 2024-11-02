@@ -45,8 +45,7 @@ Despite having most of my work in private repositories, I maintain a high level 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zackrspv)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://zackrspv.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philliprumple)
 
 </div>
 
