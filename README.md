@@ -70,6 +70,17 @@ While 90%+ of my commits live in private repos, this profile reflects my approac
 
 ---
 
+📈 **Active Contributions**
+In 2025 alone:  
+- 1,300+ contributions across 34+ repositories  
+- Spanning CRM modernization, AI infrastructure, and startup consulting  
+- Split across commits (54%), PRs (29%), issues (16%), and reviews  
+
+> Most of my work is in private or client-owned org repos (@chrealty, @onG-social, @chiefonboarding, etc.),  
+> but this activity snapshot shows my ongoing engagement across multiple domains.
+
+---
+
 ## 🏅 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=zackrspv\&theme=default\&no-frame=false\&no-bg=true\&margin-w=4)
